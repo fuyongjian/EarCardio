@@ -1,0 +1,26 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - Starscream (4.0.8)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - Starscream (~> 4.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Starscream
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: ce0768268078eee0336f122c3c4ca248e4e204c5
+  Starscream: 19b5533ddb925208db698f0ac508a100b884a1b9
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: ddc67649ab1e405f10fe67a541ae4e2a3b7d3c86
+
+COCOAPODS: 1.10.2

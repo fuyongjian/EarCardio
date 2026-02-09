@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TWSCardio/Pods-TWSCardio-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${BUILT_PRODUCTS_DIR}/SwiftAlgorithms/Algorithms.framework
